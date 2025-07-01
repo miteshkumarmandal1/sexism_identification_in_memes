@@ -16,4 +16,4 @@ This project was developed and tested on the Kaggle platform.
 - Transformers 4.47.0
 - Torchvision 0.20.1+cu121
 
-For full environment setup, refer to [`requirements.txt`](./requirements.txt) or [`environment.yml`](./environment.yml).
+
